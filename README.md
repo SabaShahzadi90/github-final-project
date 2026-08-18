@@ -1,14 +1,13 @@
-# Simple Interest Calculator
+# github-final-project
 
-## IBM SkillsBuild Final Project
+## Introduction
+This repository is created for the GitHub final project assignment. It contains README, LICENSE, CODE_OF_CONDUCT, and CONTRIBUTING files as required.
 
-### Formula
-Simple Interest = (P × R × T) / 100
+## Installation
+To clone this repository, run:
 
-P = Principal Amount  
-R = Rate of Interest %  
-T = Time in Years
-
-### Author
-Saba Shahzadi  
-Course: Introduction to Git and GitHub - IBM
+git clone github.com 
+## Usage
+1. Clone the repository using the command above
+2. Navigate to the project directory
+3. This repository is used to fulfill the requirements of the GitHub final project assignment
