@@ -1,17 +1,18 @@
-# Contributing to Simple Interest Calculator
+# Contributing to github-final-project
 
-Thank you for your interest in contributing!
+All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
 
 ## How to Contribute
 1. Fork the repository
-2. Create a new branch for your feature
-3. Make your changes
-4. Submit a Pull Request
+2. Create a new branch for your feature or bug fix
+3. Make your changes and test them
+4. Commit your changes with a clear message
+5. Push to your branch
+6. Create a Pull Request
 
 ## Guidelines
 - Follow the Code of Conduct
 - Write clear commit messages
-- Test your changes before submitting
+- Update documentation if needed
 
-## Questions?
-Feel free to open an issue for any questions.
+Thank you for contributing!
